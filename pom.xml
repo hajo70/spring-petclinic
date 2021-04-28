@@ -119,6 +119,13 @@
       <artifactId>spring-boot-devtools</artifactId>
       <optional>true</optional>
     </dependency>
+
+    <dependency>
+      <groupId>de.spricom.dessert</groupId>
+      <artifactId>dessert-core</artifactId>
+      <version>0.4.2</version>
+      <scope>test</scope>
+    </dependency>
   </dependencies>
 
   <build>
